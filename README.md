@@ -51,9 +51,11 @@ Here are some ideas to get you started:
 
 &nbsp;
 ### Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=xxmy7&show_icons=true&count_private=true&hide=prs&theme=dracula" alt="info" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxmy7&layout=compact&hide_border=false" alt="language" width="410" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxmy7&layout=compact&hide_border=true&langs_count=10" alt="language" width="410" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=xxmy7&show_icons=true&count_private=true&hide=prs&theme=dracula" alt="info" /></p>  
+
 ↑ 指可以鞭策自己（大概）
+
 <!--
 ![info](https://github-readme-stats.vercel.app/api?username=xxmy7&show_icons=true&count_private=true&hide=prs&theme=dracula)
 ![xxmy7's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=xxmy7&show_icons=true&count_private=true&theme=default_repocard)
