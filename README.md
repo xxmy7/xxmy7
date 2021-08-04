@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ✨✨✨
 <h1 align="center">Hi 👋 ! I'm xxmy7</h1>
-<h3 align="center">a student in Wuhan University</h3>
+<h3 align="center">a student</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=a+student+in+Wuhan+University;mess+around;Game+of+Life">
 </p>
@@ -25,14 +25,14 @@ Here are some ideas to get you started:
 <img align='right' src="https://i.shgcdn.com/2121ec60-de9e-4d21-b11c-7eb9365ebe1f/-/format/auto/-/preview/3000x3000/-/quality/lighter/" width="400">
 
 ### About me
-- 🔭 I’m currently studying in Wuhan University.  
+<!-- - 🔭 I’m currently studying in Wuhan University.   -->
 - 🌱 I’m currently learning GIS，Remote Sensing.  
 - 🤔 I’m looking for help how to find meaning in life.  
 - :purple_heart: Kind people are my kinda people
 - :apple: Beginner mindset (**open to learning**)
 - :sparkles: Child at heart (**i see the world as magical**)
 - 💬 Ask me about ...  
-- 📫 How to reach me: 2019302130011@whu.edu.cn  
+<!-- - 📫 How to reach me: 2019302130011@whu.edu.cn   -->
 
 &nbsp;
 ### Learning
