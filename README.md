@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=xxmy7.readme)  
+![](https://visitor-badge.glitch.me/badge?page_id=xxmy7.readme)  ![](https://komarev.com/ghpvc/?username=xxmy7)
 
 <img align='right' src="https://i.shgcdn.com/2121ec60-de9e-4d21-b11c-7eb9365ebe1f/-/format/auto/-/preview/3000x3000/-/quality/lighter/" width="400">
 
