@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋 ! I'm xxmy7</h1>
 <!-- <h3 align="center">a student in Remin University of China</h3> -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=a+student+in+Wuhan+University;mess+around;Game+of+Life">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=a+student+in+Remin+University+of+China;mess+around;Game+of+Life">
 </p>
 
 
