@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - :apple: Beginner mindset (**open to learning**)
 - :sparkles: Child at heart (**i see the world as magical**)
 - 💬 Ask me about ...  
-- 📫 How to reach me: 2023000915@ruc.edu.cn  
+- 📫 How to reach me: 2023000915[AT]ruc.edu.cn  
 
 &nbsp;
 ### Learning
